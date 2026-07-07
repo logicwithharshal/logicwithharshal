@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshal Raut</h1>
 <h3 align="center">A passionate frontend developer & open source contributor from India</h3>
 
-<p align="center">
+<!-- <p align="center">
 🔭 I’m currently working on <a href="https://github.com/learning-unlimited/ESP-Website">ESP-Website</a><br>
 🌱 I’m currently learning <b>Node js</b><br>
 👯 I’m looking to collaborate on <a href="https://github.com/learning-unlimited">Learning Unlimited Projects</a><br>
@@ -58,4 +58,4 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="40"/>
   &nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/>
-</p>
+</p> -->
