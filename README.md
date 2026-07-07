@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshal Raut</h1>
-<h3 align="center">A passionate frontend developer & open source contributor from India</h3>
+<!-- <h3 align="center">A passionate frontend developer & open source contributor from India</h3> -->
 
 <!-- <p align="center">
 🔭 I’m currently working on <a href="https://github.com/learning-unlimited/ESP-Website">ESP-Website</a><br>
